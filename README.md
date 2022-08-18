@@ -1,0 +1,2 @@
+# weebzonechat
+CHATTING APP FOR WEEBS/ ANIME FREAKS
